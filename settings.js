@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94740952096,94769632087",
+  OWNER_NUMBER: "94740952096,94740198044",
   SUDO_NUMBERS : "94740952096",
-  OWNER_NAME: "『ᴍʀͥ.ᴄͣʜͫᴀmuwa』",
-  BOT_NAME : "ᴍʀͥ.ᴄͣʜͫᴀmuwa",
+  OWNER_NAME: "『 ᴍʀͥ.ᴄͣʜͫᴀmuwa"』",
+  BOT_NAME : "ᴩᴇᴛʜᴜᴍᴀ♻✨",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/nPV4WNW/IMG-20240412-WA0019.jpg',
@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ Whatsapp ʙᴏᴛ',
-  STICKER_PACK : '[ ᴍʀͥ.ᴄͣʜͫᴀmuwa ]',
+  STICKER_PACK : '[ ᴍʀͥ.ᴄͣʜͫᴀmuwa | ᴩᴇᴛʜᴜᴍᴀ♻✨]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',

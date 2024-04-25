@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94740952096,94740198044",
+  OWNER_NUMBER: "94740952096,94741690348",
   SUDO_NUMBERS : "94740952096",
-  OWNER_NAME: "『  ᴩᴇᴛʜᴜᴍᴀ♻✨』",
-  BOT_NAME : "ᴩᴇᴛʜᴜᴍᴀ♻✨",
+  OWNER_NAME: "`✵•.¸,✵°✵.｡.✰ Ms MIHI ✰.｡.✵°✵,¸.•✵´",
+  BOT_NAME : "`✵•.¸,✵°✵.｡.✰ Ms MIHI ✰.｡.✵°✵,¸.•✵´",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/nPV4WNW/IMG-20240412-WA0019.jpg',
+    ALIVE: 'https://i.ibb.co/TgpkCgV/83bfce978e658db1b8e8e072f81ee756.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -32,11 +32,11 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
+  WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ Whatsapp ʙᴏᴛ',
-  STICKER_PACK : '[ ᴍʀͥ.ᴄͣʜͫᴀmuwa | ᴩᴇᴛʜᴜᴍᴀ♻✨]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ✰ Ms MIHI ✰ Whatsapp ʙᴏᴛ',
+  STICKER_PACK : '[ ᴍʀͥ.ᴄͣʜͫᴀmuwa | ✰ Ms MIHI ✰]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '🙂‍↔',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",

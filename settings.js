@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94740952096,94772576924",
+  OWNER_NUMBER: "94740952096,94703354219",
   SUDO_NUMBERS : "94740952096",
   OWNER_NAME: "`✵•.¸,✵°✵.｡.94740952096✰.｡.✵°✵,¸.•✵´",
   BOT_NAME : "`✵•.¸,✵°✵.｡.94740952096✰.｡.✵°✵,¸.•✵´",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/TgpkCgV/83bfce978e658db1b8e8e072f81ee756.jpg',
+    ALIVE: 'https://i.ibb.co/PGM0RBP/IMG-20240504-WA0074.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ✰94740952096✰ Whatsapp ʙᴏᴛ',
-  STICKER_PACK : '[ ᴍʀͥ.ᴄͣʜͫᴀmuwa | ✰ Ms MIHI ✰]',
+  STICKER_PACK : '[ ᴍʀͥ.ᴄͣʜͫᴀmuwa | ✰ ✰]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',

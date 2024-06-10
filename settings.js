@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94740952096,94703354219",
+  OWNER_NUMBER: "94740952096,94711994525",
   SUDO_NUMBERS : "94740952096",
-  OWNER_NAME: "`✵•.¸,✵°✵.｡.94740952096✰.｡.✵°✵,¸.•✵´",
-  BOT_NAME : "`✵•.¸,✵°✵.｡.94740952096✰.｡.✵°✵,¸.•✵´",
+  OWNER_NAME: ".｡.94740952096✰.｡.94711994525",
+  BOT_NAME : ".｡.94740952096✰.｡.94711994525",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/PGM0RBP/IMG-20240504-WA0074.jpg',
+    ALIVE: 'https://i.ibb.co/D8GYg2g/IMG-20240610-WA0041.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ✰94740952096✰ Whatsapp ʙᴏᴛ',
-  STICKER_PACK : '[ ᴍʀͥ.ᴄͣʜͫᴀmuwa | ✰ ✰]',
+  CAPTION : ' ✰94740952096✰, 94711994525 MD',
+  STICKER_PACK : '[ ᴍʀͥ.ᴄͣʜͫᴀmuwa | ✰ ＤＩＮＵＪＡＹＡ ✰]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '🙂‍↔',
+  OWNER_REACT : '🤡',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",

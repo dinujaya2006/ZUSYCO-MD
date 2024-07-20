@@ -17,9 +17,9 @@ Creator : @darkmakerofc , @mr-nima-x
 
 module.exports = {
   OWNER_NUMBER: "94740952096,94711994525",
-  SUDO_NUMBERS : "94740952096",
+  SUDO_NUMBERS : "94740952096,94743765687",
   OWNER_NAME: ".｡.94740952096✰.｡.94711994525",
-  BOT_NAME : ".｡.94740952096✰.｡.94711994525",
+  BOT_NAME : "Ｄｉｎｕｊａｙａ ＭＤ,Owner:-94740952096",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/D8GYg2g/IMG-20240610-WA0041.jpg',
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : ' ✰94740952096✰, 94711994525 MD',
+  CAPTION : ' Ｄｉｎｕｊａｙａ ＭＤ,Owner:-94740952096',
   STICKER_PACK : '[ ᴍʀͥ.ᴄͣʜͫᴀmuwa | ✰ ＤＩＮＵＪＡＹＡ ✰]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
